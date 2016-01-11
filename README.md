@@ -1,5 +1,5 @@
-ihomebrew-jimakun
-=================
+homebrew-jimakun
+================
 
 Homebrew formula for Jimakun.
 
