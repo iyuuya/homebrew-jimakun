@@ -1,7 +1,7 @@
 homebrew-jimakun
 ================
 
-Homebrew formula for Jimakun.
+Homebrew formula for [Jimakun](https://github.com/iyuuya/Jimakun).
 
 Usage
 -----
